@@ -1,5 +1,9 @@
 # Data-Science-Apprenticeship-Exercises
 
-# Heading 1
+# Methodology
 
-## Heading 2
+Sample text
+
+## Data collection
+
+this describes data collection
