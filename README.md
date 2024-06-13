@@ -9,4 +9,4 @@ Sample text
 this describes data collection
 
 ## images
-![my portrait] (assets/me.jpg)
+![histogram](assets/me.jpg)
