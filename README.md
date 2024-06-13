@@ -1,12 +1,12 @@
-# Data-Science-Apprenticeship-Exercises
+# Data-Science-Apprenticeship-GitHub learning
 
-# Methodology
+# Header 1
 
 Sample text
 
-## Data collection
+## Header 2
 
-this describes data collection
+More sample text
 
 ## images
 ![histogram](assets/me.jpg)
