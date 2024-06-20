@@ -15,3 +15,5 @@ More sample text
 [example portfolio](https://github.com/ShawhinT/example-portfolio/tree/main)
 
 [markdown sheet](https://www.markdownguide.org/cheat-sheet/)
+
+[awesome public datasets](https://github.com/awesomedata/awesome-public-datasets?tab=readme-ov-file)
