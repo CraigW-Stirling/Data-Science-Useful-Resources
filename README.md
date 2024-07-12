@@ -29,6 +29,14 @@ Gathering together lists of useful sites and resources that i've come across as 
 [python community](https://www.python.org/community/)
 
 
+# LLM Helpers
+
+[microsoft copilot](https://copilot.microsoft.com/)
+
+[chatGPT](https://chat.openai.com/)
+
+
+
 # Referencing and academic writing
 
 [academic phrasebank](https://www.phrasebank.manchester.ac.uk/writing-definitions/)
