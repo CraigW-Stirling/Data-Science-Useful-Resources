@@ -8,6 +8,11 @@ Gathering together lists of useful sites and resources that i've come across as 
 
 [python cheat sheet](https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet)
 
+[w3 schools](https://www.w3schools.com/)
+
+[chatGPT data science cheat sheet](https://www.kdnuggets.com/2023/03/chatgpt-data-science-cheat-sheet.html)
+
+
 # Data Communities
 
 [awesome public datasets](https://github.com/awesomedata/awesome-public-datasets?tab=readme-ov-file)
@@ -24,6 +29,22 @@ Gathering together lists of useful sites and resources that i've come across as 
 [python community](https://www.python.org/community/)
 
 
-# Referencing
+# Referencing and academic writing
+
+[academic phrasebank](https://www.phrasebank.manchester.ac.uk/writing-definitions/)
+
+[medium journals](https://medium.com/)
+
+[arxiv](https://arxiv.org/)
+
+[google scholar](https://scholar.google.com/)
+
+[machine learning journal](https://paperswithcode.com/)
+
+
+
+
+
+
 
 
