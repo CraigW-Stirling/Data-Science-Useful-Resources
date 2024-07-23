@@ -12,6 +12,8 @@ Gathering together lists of useful sites and resources that i've come across as 
 
 [chatGPT data science cheat sheet](https://www.kdnuggets.com/2023/03/chatgpt-data-science-cheat-sheet.html)
 
+[github badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+
 
 # Data Communities
 
