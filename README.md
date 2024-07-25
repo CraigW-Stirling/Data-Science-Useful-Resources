@@ -2,6 +2,9 @@
 
 Gathering together lists of useful sites and resources that i've come across as part of my Data Science apprenticeship.
 
+[Data Science Project Checklist](https://www.datacamp.com/blog/data-science-project-checklist)
+
+
 # Coding Resources
 
 [markdown sheet](https://www.markdownguide.org/cheat-sheet/)
