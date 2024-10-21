@@ -11,6 +11,8 @@ Gathering together lists of useful sites and resources that i've come across as 
 
 [python cheat sheet](https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet)
 
+[python matplotlib cheat sheet] (https://matplotlib.org/cheatsheets/)
+
 [w3 schools](https://www.w3schools.com/)
 
 [chatGPT data science cheat sheet](https://www.kdnuggets.com/2023/03/chatgpt-data-science-cheat-sheet.html)
